@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @AceeNISM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <img src="https://i.imgur.com/H3dhKjL.gif" alt="animated" />
+</p>
 
-<!---
-AceeNISM/AceeNISM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+&nbsp;
+
+- 👨🏻‍💻 Small **programmer** and **hacker**
+
+&nbsp;
+
+- ⚡ my discord: MARSS#2962
+
+&nbsp;
+
+- 🔥 My main programming language is: **Python, HTML**
+
+&nbsp;
+
+- ⭐️ I’m currently learning: **HTML, Python, JavaScript, css**
+
+&nbsp;
+
+- 🕸 Programming languages to learn in the future: **GoLang, Java**
+</p>
