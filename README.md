@@ -16,9 +16,9 @@
 
 &nbsp;
 
-- ⭐️ I’m currently learning: **HTML, Python, JavaScript, css**
+- ⭐️ I’m currently learning: **HTML, Python, Java, css**
 
 &nbsp;
 
-- 🕸 Programming languages to learn in the future: **GoLang, Java**
+- 🕸 Programming languages to learn in the future: **PHP, Java**
 </p>
